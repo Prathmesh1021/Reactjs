@@ -11,7 +11,7 @@ const Card = () => {
         <button>Save <Bookmark size={12}/></button>
          </div> 
          <div className="center">
-          <h3>Amazon<span> 5 Day Ago</span></h3>
+          <h3>Amazon<span> 5 Day Ago </span></h3>
           <h2>Senior UI/UX Designer</h2>
           <div className='tag'> 
             <h4>Part time</h4>
